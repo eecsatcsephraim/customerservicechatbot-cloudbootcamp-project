@@ -2,7 +2,7 @@
 
 This code is for educational purposes only and should not be used in production environments.
 
-# CloudMart
+# Customer Service AI based off cloudbootcamp project
 
 A simple static e-commerce demo website with a blue and white theme, featuring a chat widget powered by GenAI. Built with Flask for easy deployment on AWS LightSail using Docker.
 
