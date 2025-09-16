@@ -2,11 +2,11 @@ body {
     margin: 0;
     font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
     background: #f7faff;
-    color: #222;
+    color: #a1a1;
 }
 .main-header {
     background: #fff;
-    color: #1976d2;
+    color: #19d275;
     padding: 1rem 2rem;
     display: flex;
     align-items: center;
@@ -22,10 +22,10 @@ body {
     font-size: 1.5rem;
     font-weight: 700;
     gap: 0.5rem;
-    color: #1976d2;
+    color: #19d275;
 }
 nav a {
-    color: #1976d2;
+    color: #19d275;
     text-decoration: none;
     margin-left: 2rem;
     font-weight: 600;
@@ -38,7 +38,7 @@ nav a:hover {
 .cart {
     position: relative;
     font-size: 1.5rem;
-    color: #1976d2;
+    color: #19d275;
     cursor: pointer;
 }
 .cart-count {
